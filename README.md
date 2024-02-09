@@ -12,11 +12,11 @@ Prerequisites:
 
 Installation: Install the required libraries using pip and download the source code from this repository.
       
-      # pip install pandas numpy matplotlib yfinance scipy
+      pip install pandas numpy matplotlib yfinance scipy
 
 Usage: Run the Python script stock_analysis.py to execute the analysis and observe the output and the generated plots.
       
-      # python stock_analysis.py
+      python stock_analysis.py
 
 Code Structure: The script downloads the stock price data for Apple Inc. using the yfinance library.
       It calculates daily returns and volatility.
